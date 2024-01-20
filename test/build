@@ -1,0 +1,1 @@
+g++ -o test main.cpp  -I/usr/local/include/vtz_logger  -L/usr/local/lib -lvtz_logger
